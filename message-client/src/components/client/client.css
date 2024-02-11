@@ -1,0 +1,14 @@
+/* ScrollableWindow.css */
+.message {
+    padding: 5px;
+    background-color: #61dafb;
+    margin: 5px;
+}
+
+
+.scrollable-window {
+    height: 300px;
+    width: 300px;
+    overflow-y: auto;
+    background-color: white;
+}
